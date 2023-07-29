@@ -40,7 +40,7 @@ sudo apt-get upgrade && update ✏ Ubuntu Package 업데이트 & 업그레이드
 
 sudo apt-get install python3-pip ✏ pip3 설치
 
-sudo -H pip3 install -U jetson-stats ✏ Package 설치
+sudo -H pip3 install -U jetson-stats ✏ jtop Package 설치
 
 pip3 list | grep jetson ✏ Package가 설치 되어있는지 확인
 
@@ -63,3 +63,22 @@ python3 usb-camera-gst.py ✏ usb-camera-gst.py 실행
 python3 usb-camera-simple.py ✏ usb-camera-simple.py 실행
 
 <img src="./jetson_camera.png">
+
+# Headless Mode 사용하기 ⛓
+
+GUI가 아니라 CUI로 모니터없이 ssh로 연결해서 Jetson사용하기
+
+
+<hl>
+    1. Powershell을 관리자 권한으로 실행 😎
+    2. 최상위 폴더로 이동
+    3. ssh를 사용하여 연결
+</hl>
+
+# 실행 결과
+
+(NVIDA의 전용 서버 ip : dli@192.168.55.1) 
+
+첫번째 실행 : Connection timed out 에러 발생 😶
+
+두번째 실행 : 똑같은 에러 발생 (재부팅 후) 🙄
