@@ -41,3 +41,9 @@ pip3 list | grep jetson ✏ Package가 설치 되어있는지 확인
 
 jtop ✏ jtop 실행
 
+# 카메라 체크 📸
+git clone https://github.com/jetsonhacks/USB-Camera.git ✏ Camera 복제
+
+cd USB-Camera ✏ USB-Camera 폴더로 이동
+
+python3 usb-camera-gst.py ✏ usb-camera-gst.py 실행
