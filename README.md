@@ -1,5 +1,6 @@
 # IDK (I Don't know 몰라요) 🤣
 2023.7.29 NVIDA Jetson 사용 👍 (with Greendangdang 😎)
+
 프로젝트를 만든 사람도 이 프로젝트가 뭔지 몰라요. ^_____^
 
 # Ubuntu 설치
