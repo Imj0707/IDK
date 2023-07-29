@@ -82,3 +82,4 @@ GUI가 아니라 CUI로 모니터없이 ssh로 연결해서 Jetson사용하기
 첫번째 실행 : Connection timed out 에러 발생 😶
 
 두번째 실행 : 똑같은 에러 발생 (재부팅 후) 🙄
+
