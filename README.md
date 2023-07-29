@@ -9,6 +9,9 @@
   2. 64GB sd카드 포맷
   3. balenEtcher로 sd카드에 flash ⚡
 
+<img src="
+
+
 # Jetson 조립하기 🛠
 1. 쿨링팬 설치 
 2. 키보드와 마우스 연결하기
@@ -40,6 +43,9 @@ pip3 list | grep jetson ✏ Package가 설치 되어있는지 확인
 <h1>재부팅</h1>
 
 jtop ✏ jtop 실행
+
+<img src="./jtop.png">
+
 
 # 카메라 체크 📸
 git clone https://github.com/jetsonhacks/USB-Camera.git ✏ Camera 복제
