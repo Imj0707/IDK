@@ -55,3 +55,9 @@ git clone https://github.com/jetsonhacks/USB-Camera.git ✏ Camera 복제
 cd USB-Camera ✏ USB-Camera 폴더로 이동
 
 python3 usb-camera-gst.py ✏ usb-camera-gst.py 실행
+
+또는
+
+python3 usb-camera-simple.py ✏ usb-camera-simple.py 실행
+
+<img src="./jetson_camera.png">
