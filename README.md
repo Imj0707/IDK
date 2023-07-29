@@ -9,7 +9,7 @@
   2. 64GB sd카드 포맷
   3. balenEtcher로 sd카드에 flash ⚡
 
-<img src="
+<img src="./jetson-ubuntu.png">
 
 
 # Jetson 조립하기 🛠
